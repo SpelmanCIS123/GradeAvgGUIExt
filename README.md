@@ -1,7 +1,7 @@
 # Grade Averaging GUI
 
 ## Instructions 
-- Write a program that will create a GUI that will add a 4th test grade and display their letter grade. 
+- Write a program that will create a GUI that will add a 4th test grade to the existing code and display their letter grade. 
 - The entry boxes for the test grades should have labels
 - The average and letter should display on the main window 
 
